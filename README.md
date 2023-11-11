@@ -4,3 +4,4 @@
 
 # Salvando uma nova linha
 * comando git push
+* comando git pull
