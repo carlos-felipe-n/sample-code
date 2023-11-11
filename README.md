@@ -3,3 +3,4 @@
 # Salvando alterações no Git
 
 # Salvando uma nova linha
+* comando git push
